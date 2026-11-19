@@ -1,0 +1,4 @@
+agents312/
+__pycache__/
+*.pyc
+.env
